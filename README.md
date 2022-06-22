@@ -24,7 +24,7 @@ docker run \
 
 To Build:
 ```sh
-git clone https://github.com/sinamoghaddas/TunSafe
+git clone https://github.com/sinamoghaddas/TunSafe -b dev-dockerize
 cd TunSafe
 
 docker build -t tunsafe .
